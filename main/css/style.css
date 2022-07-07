@@ -1,4 +1,4 @@
-@charset 'utf-8';
+@charset "utf-8";
 
 .container{width: 1200px;margin: 0 auto;}
 .menu{height: 60px;}
@@ -18,7 +18,7 @@
 .visual.company{
     height: 200px;background-color: gold;
     display: flex;justify-content: center;align-items: center;
-    font-size: 2em;
+  
 }
 
 /* content */
