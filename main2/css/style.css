@@ -128,7 +128,7 @@ p.number{
     background-color: #fff;
     height: 300px;
     width: 372px;
-    
+    float: right;
 }
 .conL{margin-right: 16px;}
 .conR{display: inline-block;padding: 30px;}
